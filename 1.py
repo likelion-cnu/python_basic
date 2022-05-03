@@ -48,6 +48,4 @@ while True:
         break
     
     else:
-        "제대로 입력"
-
-print(book_list)
+        "제대로 입력하세요"
